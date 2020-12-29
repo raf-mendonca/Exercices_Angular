@@ -1,0 +1,14 @@
+div {
+    background-color : #c274a9; 
+    width:95%; 
+    margin: auto;
+}
+
+mat-card {    
+    width: 8em;
+    margin: 15px;
+}
+
+.flex-container {
+    display: flex;
+}
